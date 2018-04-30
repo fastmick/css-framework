@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background: #fff;
+    color: $color-text;
+    font-family: 'Libre Baskerville', serif;
+}
+
+header {
+    background: #ccc;
+}
+
+nav {
+    background: #666;
+}
+
+main {
+    background: #f00;
+}
+
+footer {
+    background: #999;
+}
